@@ -12,12 +12,11 @@ Week 1 / (2026) Nov 01-07
 - LetsDefend.io
 
 ### Test Results
-- Score: shutov... 
-- Percentage: shutov...
+- Score: 65/100
 
 ### Mistakes & Weak Areas
 - DHCP
-- Windows Events Log's ID
+- Windows Events Log's IDй
 
 ### Next Week Goals
 - LSASS
