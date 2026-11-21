@@ -27,4 +27,29 @@ Week 1 / (2026) Nov 01-07
 ---
 
 Week 2 / (2026) Nov 07-14
-shutov ....
+
+### Topics Studied
+- LSASS
+- SWG, DNS Tunneling, DGA
+- Email Protection(SPF + DKIM + DMARC)
+- Windows Logon Types
+
+### Practical Work
+- TryHackMe.com
+- LetsDefend.io
+
+### Test Results
+- Score: 65/100
+
+### Mistakes & Weak Areas
+- SWG, DGA
+- Memory Dumps, Script Block Logging
+
+### Next Week Goals
+
+- // General review of theories, knowledge, and skills //
+
+---
+
+Week 3 / (2026) Nov 14-21
+Aysor Erekoyan...
